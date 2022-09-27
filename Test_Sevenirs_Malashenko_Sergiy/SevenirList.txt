@@ -1,0 +1,8 @@
+pen//Apple//02-03-2010//50
+pen//Google//03-05-2011//80
+pen//Samsung//05-08-2012//70
+pen//Sony//05-08-2012//70
+pen//Siemens//05-08-2012//70
+magnet//Apple//02-03-2013//50
+magnet//Google//03-05-2014//80
+magnet//Samsung//05-08-2015//70

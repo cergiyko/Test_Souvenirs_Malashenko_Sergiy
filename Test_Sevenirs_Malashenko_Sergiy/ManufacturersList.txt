@@ -1,0 +1,5 @@
+Samsung//Korea//IBAN 1040
+Siemens//Germany//IBAN 1060
+Sony//Japan//IBAN 1050
+Google//USA//IBAN 1020
+Apple//USA//IBAN 1030
